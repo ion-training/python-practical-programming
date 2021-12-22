@@ -1,2 +1,2 @@
 # python-practical-programming
-exercises from books
+exercises from book practical programming by chapters
